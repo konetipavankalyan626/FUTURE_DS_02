@@ -14,23 +14,23 @@ overall effectiveness of campaigns across different social platforms.
  This Power BI dashboard provides an end-to-end view of campaign performance across different demographics and campaign IDs.
 It enables stakeholders to track:
 
-Total Impressions
+- Total Impressions
 
-Total Clicks
+- Total Clicks
 
-CTR (%)
+- CTR (%)
 
-Total Conversions
+- Total Conversions
 
-Total Spent
+- Total Spent
 
-ROI (%)
+- ROI (%)
 
-Audience Engagement
+- Audience Engagement
 
-Conversion Rate by Age & Gender
+- Conversion Rate by Age & Gender
 
-Daily Engagement Heatmap
+- Daily Engagement Heatmap
 
-CTR trends over time
+- CTR trends over time
 
