@@ -64,3 +64,12 @@ It enables stakeholders to track:
  
  ┗ 📄 README.md
 
+## 📥 How to Use This File
+
+1.Download the .pbix file from this repository
+
+2.Open it using Power BI Desktop
+
+3.Explore visuals, filters, and insights
+
+4.Modify or connect your own dataset if needed
