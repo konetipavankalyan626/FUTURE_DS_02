@@ -53,3 +53,12 @@ It enables stakeholders to track:
 - DAX (Measures & Calculations)
 
 - Data Visualization Principles
+
+- 📦 Social-Media-Campaign-Report
+
+ ┣ 📊 Social media campaign.pbix
+ 
+ ┣ 🖼️ dashboard.png
+ 
+ ┗ 📄 README.md
+
