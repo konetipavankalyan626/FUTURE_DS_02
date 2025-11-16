@@ -54,6 +54,8 @@ It enables stakeholders to track:
 
 - Data Visualization Principles
 
+📁 Repository Contents
+
 - 📦 Social-Media-Campaign-Report
 
  ┣ 📊 Social media campaign.pbix
