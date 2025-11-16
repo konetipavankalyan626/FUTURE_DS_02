@@ -54,7 +54,7 @@ It enables stakeholders to track:
 
 - Data Visualization Principles
 
-📁 Repository Contents
+## 📁 Repository Contents
 
 - 📦 Social-Media-Campaign-Report
 
