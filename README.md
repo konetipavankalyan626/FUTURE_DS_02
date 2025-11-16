@@ -15,13 +15,22 @@ overall effectiveness of campaigns across different social platforms.
 It enables stakeholders to track:
 
 Total Impressions
+
 Total Clicks
+
 CTR (%)
+
 Total Conversions
+
 Total Spent
+
 ROI (%)
+
 Audience Engagement
+
 Conversion Rate by Age & Gender
+
 Daily Engagement Heatmap
-CTR trends over time
+
+-CTR trends over time
 
