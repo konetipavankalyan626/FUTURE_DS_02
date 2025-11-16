@@ -78,3 +78,13 @@ It enables stakeholders to track:
 
 The Social Media Campaign Performance Tracker provides a deep insight into the marketing campaign's strengths, weaknesses, and opportunities.
 With clear visuals and interactive filters, businesses can make informed decisions, optimize ad spending, and improve customer targeting for future campaigns.
+
+## 👨‍💻 Author
+
+### Koneti Pavan Kalyan
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+Passionate about transforming raw data into meaningful insights through dashboards, statistical analysis, and data storytelling.
+
+📍 Location: Bengaluru, India
