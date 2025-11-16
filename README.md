@@ -43,3 +43,13 @@ It enables stakeholders to track:
 - Monthly engagement growth/decline insights  
 
 - Performance comparison between platforms
+
+  ## 🛠 Tools & Technologies Used
+
+Power BI Desktop
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Measures & Calculations)
+
+Data Visualization Principles
