@@ -34,3 +34,12 @@ It enables stakeholders to track:
 
 - CTR trends over time
 
+## 📈 Key Insights
+
+- Identified the most engaging social media platforms  
+
+- Found which type of posts got the highest engagement  
+
+- Monthly engagement growth/decline insights  
+
+- Performance comparison between platforms
