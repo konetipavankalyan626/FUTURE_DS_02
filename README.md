@@ -88,3 +88,9 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel
 Passionate about transforming raw data into meaningful insights through dashboards, statistical analysis, and data storytelling.
 
 📍 Location: Bengaluru, India
+
+
+🔗 LinkedIn: https://www.linkedin.com/in/pavankalyan585/
+
+📧 Email: konetipavankalyan225@gmail.com
+
