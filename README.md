@@ -44,12 +44,12 @@ It enables stakeholders to track:
 
 - Performance comparison between platforms
 
-  ## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
-Power BI Desktop
+- Power BI Desktop
 
-Power Query (Data Cleaning & Transformation)
+- Power Query (Data Cleaning & Transformation)
 
-DAX (Measures & Calculations)
+- DAX (Measures & Calculations)
 
-Data Visualization Principles
+- Data Visualization Principles
