@@ -32,5 +32,5 @@ Conversion Rate by Age & Gender
 
 Daily Engagement Heatmap
 
--CTR trends over time
+CTR trends over time
 
